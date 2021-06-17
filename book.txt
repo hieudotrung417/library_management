@@ -1,0 +1,9 @@
+id;KD01_name;hieu va nhung nguoi ban_price;100_numberPage;200_status;1_addeddate;10/11/2019_loanedDate;20/11/2020_returnDate;12/12/2010
+id;KD01_name;hieu va nhung nguoi ban_price;100_numberPage;200_status;1_addedDate;2/2/2020_loanedDate;2/2/2020_returnedDate;2/2/2020
+id;KD01_name;hieu va nhung nguoi ban_price;100_numberPage;200_status;1_addedDate;2/2/2020_loanedDate;2/2/2020_returnedDate;2/2/2020
+id;KD01_name;hieu va nhung nguoi ban_price;100_numberPage;200_status;1_addedDate;2/2/2020_loanedDate;2/2/2020_returnedDate;2/2/2020
+id;KD01_name;hieu va nhung nguoi ban_price;100_numberPage;200_status;1_addedDate;2/2/2020_loanedDate;2/2/2020_returnedDate;2/2/2020
+id;KD01_name;hieu va nhung nguoi ban_price;100_numberPage;200_status;1_addedDate;2/2/2020_loanedDate;2/2/2020_returnedDate;2/2/2020
+id;KD01_name;hieu va nhung nguoi ban_price;100_numberPage;200_status;1_addedDate;2/2/2020_loanedDate;2/2/2020_returnedDate;2/2/2020
+id;1_name;hieu_price;12_numberPage;12_status;1_addedDate;1/1/2000_loanedDate;0/0/0_returnedDate;0/0/0
+id;2_name;hieu_price;34_numberPage;123_status;1_addedDate;1/1/2000_loanedDate;0/0/0_returnedDate;0/0/0

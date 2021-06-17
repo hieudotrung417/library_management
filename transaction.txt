@@ -1,0 +1,7 @@
+idUser;123_idBook;KD01_loanedDate;10/10/2012_returnDate;21/10/2012
+idUser;123_idBook;KD01_loanedDate;10/20/2020_returnedDate;10/20/2020
+idUser;123_idBook;KD01_loanedDate;10/20/2020_returnedDate;10/20/2020
+idUser;123_idBook;KD01_loanedDate;10/20/2020_returnedDate;10/20/2020
+idUser;123_idBook;KD01_loanedDate;10/20/2020_returnedDate;10/20/2020
+idUser;123_idBook;KD01_loanedDate;10/20/2020_returnedDate;10/20/2020
+idUser;123_idBook;KD01_loanedDate;10/20/2020_returnedDate;10/20/2020
